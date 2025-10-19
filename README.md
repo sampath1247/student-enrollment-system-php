@@ -1,7 +1,6 @@
 # student-enrollment-system-php
 Full-stack php, mysql, database, authentication, sessions, enrollment-system, concurrency-control, transactions, crud, gpa, academic-system, stored-procedure, MySQL schema with trigger, view
-# Web-Based Student Enrollment System (CMSC 4003/5043 – Applications Database Systems)
-
+# Web-Based Student Enrollment System
 This repository contains my course project for Applications Database Systems. It combines:
 - Part 1: Web-based user management with login/logout, session control, access control, and admin CRUD
 - Part 2: A student enrollment information system with academic info, multi-section enrollment, prerequisite and deadline checks, concurrency control, and admin functions (student CRUD and grade entry with probation handling)
