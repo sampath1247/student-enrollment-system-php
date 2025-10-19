@@ -1,0 +1,20 @@
+# Env and credentials
+.env
+
+# Dependencies (if you later add composer)
+vendor/
+composer.lock
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Node (if ever used for assets)
+node_modules/
+dist/
+
+# PHPStorm/Cache
+.cache/
