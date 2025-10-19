@@ -127,6 +127,4 @@ MIT (see LICENSE)
 
 ## Author
 
-- Name: Your Name
-- Course: CMSC 4003/5043 — Applications Database Systems
-- Term: Fall 2024 (or your actual term)
+- Name: sampath valluri
